@@ -1,0 +1,14 @@
+.container {
+  width: 60%;
+  margin: auto;
+  padding-top: 2em;
+}
+
+.footer {
+  background-color: #191970;
+  color: #ffffff;
+}
+
+.email {
+  color: #ffffff;
+}
